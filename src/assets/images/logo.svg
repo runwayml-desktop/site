@@ -1,0 +1,12 @@
+<svg width="180" height="50" viewBox="0 0 180 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Geometric shape representing motion -->
+  <path d="M10 25L20 15L30 25L20 35L10 25Z" fill="#4A90E2"/>
+  <path d="M25 25L35 15L45 25L35 35L25 25Z" fill="#2C3E50"/>
+  <!-- Brand name as path for better compatibility -->
+  <path d="M65 32L70 15H75L80 32H77L76 28H69L68 32H65ZM70 25H75L73 18L70 25Z" fill="#333"/>
+  <path d="M82 32V15H85V29H93V32H82Z" fill="#333"/>
+  <path d="M95 32V15H98V29H106V32H95Z" fill="#333"/>
+  <path d="M108 32V15H111L116 26L121 15H124V32H121V20L116 31L111 20V32H108Z" fill="#333"/>
+  <path d="M126 32V15H129L134 26L139 15H142V32H139V20L134 31L129 20V32H126Z" fill="#333"/>
+  <path d="M144 32V15H147V29H155V32H144Z" fill="#333"/>
+</svg>
